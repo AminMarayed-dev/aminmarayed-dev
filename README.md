@@ -9,7 +9,7 @@
 
 Hi, I'm [Amin Marayed](https://marashed.ir/), a passionate front-end developer 👨🏻‍💻 from Iran. I'm a creative problem-solver who loves turning intricate designs into pixel-perfect digital experiences. I'm proud to say that I can effortlessly center any element with CSS, making layouts both beautiful and functional. When I'm not coding, I'm exploring fresh design trends and fueling my creativity with every challenge.
 
-I proudly support Barcelona 😎 and Esteghlal ⚽ – teams that inspire my drive both on and off the field.
+
 
 <br>
 
